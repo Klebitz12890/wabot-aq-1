@@ -1,6 +1,6 @@
 {
   "name": "wabot-aq",
-  "version": "2.5.1",
+  "version": "3.5.0",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
   "main": "index.js",
@@ -22,13 +22,13 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Klebitz12890/wabot-aq-1",
+  "homepage": "https://github.com/RedstoneCraft67/wabot-aq-1",
   "author": {
-    "name": "Klebitz"
+    "name": "RedStoneCraft"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Klebitz12890/wabot-aq-1.git"
+    "url": "git+https://github.com/RedstoneCraft67/wabot-aq-1.git"
   },
   "bugs": {
     "url": "https://github.com/Nurutomo/wabot-aq/issues"
