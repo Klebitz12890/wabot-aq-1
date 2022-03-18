@@ -30,7 +30,7 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-┌ 「 *KlebitzBOT* 」
+┌ 「 *RGBotz* 」
 │❑ Version: %version
 │❑ Library: Baileys
 │❑ Mode: ${global.opts['self'] ? 'Self' : 'Publik'}
